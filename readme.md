@@ -1,21 +1,36 @@
-# Hello! I'm Facundo! Full Stack Developer
+# 👋 Hola, soy Facundo Paz Buxeda  
 
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+🎓 Estudiante de **Licenciatura en Inteligencia Artificial y Robótica** (último semestre).  
+💻 **Desarrollador de Software** con experiencia en backend, datos e Inteligencia Artificial.  
+🚀 Apasionado por construir sistemas escalables, chatbots y soluciones de automatización con IA.  
 
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+---
 
-## Hobbies
-- Videogames: ...
+## 🛠️ Tecnologías & Herramientas  
 
-## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- **Lenguajes & Frameworks:** Python, Django, PHP, Laravel, JavaScript, SQL  
+- **Bases de Datos:** MySQL, PostgreSQL  
+- **Cloud & DevOps:** Docker, AWS, Git/GitHub, CI/CD  
+- **IA & Datos:** Pandas, Scikit-learn, TensorFlow, LangChain, Cohere, OpenAI APIs  
 
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...## Languages
+---
 
-## Languages
-- Spanish native speaker
-- Fluent in English
+## 📂 Proyectos Destacados  
+
+🔹 [**Citizen Service Chatbot**](#) – Chatbot multicanal (WhatsApp, Facebook, Instagram) con RAG y Cohere.  
+🔹 [**E-commerce AI Chatbot**](#) – Chatbot inteligente para tienda de pinturas (LangChain + LLM APIs).  
+🔹 [**Brewery Management System**](#) – Backend en Django para inventario y producción cervecera.  
+
+---
+
+## 🌍 Idiomas  
+
+- Español: Nativo  
+- Inglés: C1+ (avanzado)  
+
+---
+
+## 📫 Contacto  
+
+- 📧 **Email:** facundopazbuxeda@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/facundo-paz-buxeda)
